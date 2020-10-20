@@ -1,12 +1,12 @@
 {
-    "name": "dotzero/amocrm",
+    "name": "ohdaddyplease/amocrm-deprecated",
     "description": "Удобный и быстрый клиент для работы с API amoCRM",
     "license": "MIT",
     "keywords": ["amocrm", "crm", "api"],
     "authors": [
         {
-            "name": "dotzero",
-            "email": "mail@dotzero.ru"
+            "name": "ohdaddyplease",
+            "email": "kraspvp@mail.ru"
         }
     ],
     "require": {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "AmoCRM\\": "src"
+            "AmoCRMDeprecated\\": "src"
         }
     },
     "autoload-dev": {
