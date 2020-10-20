@@ -1,12 +1,12 @@
 <?php
 
-namespace AmoCRM;
+namespace AmoCRMDeprecated;
 
-use AmoCRM\Models\ModelInterface;
-use AmoCRM\Request\CurlHandle;
-use AmoCRM\Request\ParamsBag;
-use AmoCRM\Helpers\Fields;
-use AmoCRM\Helpers\Format;
+use AmoCRMDeprecated\Models\ModelInterface;
+use AmoCRMDeprecated\Request\CurlHandle;
+use AmoCRMDeprecated\Request\ParamsBag;
+use AmoCRMDeprecated\Helpers\Fields;
+use AmoCRMDeprecated\Helpers\Format;
 
 /**
  * Class Client

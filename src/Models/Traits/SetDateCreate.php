@@ -1,6 +1,6 @@
 <?php
 
-namespace AmoCRM\Models\Traits;
+namespace AmoCRMDeprecated\Models\Traits;
 
 trait SetDateCreate
 {

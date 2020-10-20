@@ -1,8 +1,8 @@
 <?php
 
-namespace AmoCRM\Models;
+namespace AmoCRMDeprecated\Models;
 
-use AmoCRM\Models\Traits\SetDate;
+use AmoCRMDeprecated\Models\Traits\SetDate;
 
 /**
  * Class Call

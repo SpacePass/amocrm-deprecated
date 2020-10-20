@@ -1,6 +1,6 @@
 <?php
 
-namespace AmoCRM\Helpers;
+namespace AmoCRMDeprecated\Helpers;
 
 /**
  * Class Format

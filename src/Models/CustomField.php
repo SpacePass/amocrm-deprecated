@@ -1,6 +1,6 @@
 <?php
 
-namespace AmoCRM\Models;
+namespace AmoCRMDeprecated\Models;
 
 /**
  * Class CustomField

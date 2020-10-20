@@ -1,11 +1,11 @@
 <?php
 
-namespace AmoCRM\Models;
+namespace AmoCRMDeprecated\Models;
 
-use AmoCRM\Models\Traits\SetNote;
-use AmoCRM\Models\Traits\SetTags;
-use AmoCRM\Models\Traits\SetDateCreate;
-use AmoCRM\Models\Traits\SetLastModified;
+use AmoCRMDeprecated\Models\Traits\SetNote;
+use AmoCRMDeprecated\Models\Traits\SetTags;
+use AmoCRMDeprecated\Models\Traits\SetDateCreate;
+use AmoCRMDeprecated\Models\Traits\SetLastModified;
 
 /**
  * Class Lead

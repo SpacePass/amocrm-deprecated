@@ -1,9 +1,9 @@
 <?php
 
-namespace AmoCRM\Models;
+namespace AmoCRMDeprecated\Models;
 
-use AmoCRM\Models\Traits\SetDate;
-use AmoCRM\Models\Traits\SetNextDate;
+use AmoCRMDeprecated\Models\Traits\SetDate;
+use AmoCRMDeprecated\Models\Traits\SetNextDate;
 
 /**
  * Class Transaction

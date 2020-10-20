@@ -1,8 +1,8 @@
 <?php
 
-namespace AmoCRM\Request;
+namespace AmoCRMDeprecated\Request;
 
-use AmoCRM\NetworkException;
+use AmoCRMDeprecated\NetworkException;
 
 /**
  * Class CurlHandle

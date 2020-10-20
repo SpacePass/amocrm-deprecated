@@ -1,9 +1,9 @@
 <?php
 
-namespace AmoCRM\Helpers;
+namespace AmoCRMDeprecated\Helpers;
 
-use AmoCRM\Client;
-use AmoCRM\Request\ParamsBag;
+use AmoCRMDeprecated\Client;
+use AmoCRMDeprecated\Request\ParamsBag;
 
 /**
  * Class B2BFamily

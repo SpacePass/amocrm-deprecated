@@ -1,8 +1,8 @@
 <?php
 
-namespace AmoCRM\Models;
+namespace AmoCRMDeprecated\Models;
 
-use AmoCRM\Models\Traits\SetDateCreate;
+use AmoCRMDeprecated\Models\Traits\SetDateCreate;
 
 /**
  * Class Unsorted

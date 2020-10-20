@@ -1,10 +1,10 @@
 <?php
 
-namespace AmoCRM\Request;
+namespace AmoCRMDeprecated\Request;
 
 use DateTime;
-use AmoCRM\Exception;
-use AmoCRM\NetworkException;
+use AmoCRMDeprecated\Exception;
+use AmoCRMDeprecated\NetworkException;
 
 /**
  * Class Request
